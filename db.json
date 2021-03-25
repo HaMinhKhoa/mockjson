@@ -1,18 +1,18 @@
 [
     {"Id": "1959028",
-     "Name": "Nguyen Tran Hong Phuc"
+     "Name": "Nguyen Tran Hong Phuc",
      "inCharge": "ajax, cart"
   },
      {"Id": "1959038",
-     "Name": "Tran Duc Thinh"
+     "Name": "Tran Duc Thinh",
      "inCharge": "html, css, cart"
   },
      {"Id": "1959023",
-     "Name": "Pham Quang Nhan"
+     "Name": "Pham Quang Nhan",
      "inCharge": "cart"
   },
      {"Id": "1959011",
-     "Name": "Ha Minh Khoa"
+     "Name": "Ha Minh Khoa",
      "inCharge": "ajax, html, css"
   },
 ]
