@@ -1,30 +1,18 @@
-{
-  "posts": [
- 
-    {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile"
-  }
-}
+[
+    {"Id": "1959028",
+     "Name": "Nguyen Tran Hong Phuc"
+     "inCharge": "ajax, cart"
+  },
+     {"Id": "1959038",
+     "Name": "Tran Duc Thinh"
+     "inCharge": "html, css, cart"
+  },
+     {"Id": "1959023",
+     "Name": "Pham Quang Nhan"
+     "inCharge": "cart"
+  },
+     {"Id": "1959011",
+     "Name": "Ha Minh Khoa"
+     "inCharge": "ajax, html, css"
+  },
+]
