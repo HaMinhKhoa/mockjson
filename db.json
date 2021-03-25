@@ -1,6 +1,5 @@
 {
-  "ID":  
-  [
+  "profile": [
     {"Id": "1959028",
      "Name": "Nguyen Tran Hong Phuc",
      "inCharge": "ajax, cart"
@@ -17,5 +16,6 @@
      "Name": "Ha Minh Khoa",
      "inCharge": "ajax, html, css"
   }
- ]
+
+  ]
 }
