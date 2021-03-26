@@ -2,19 +2,19 @@
   "profile": [
     {"Id": "1959028",
      "Name": "Nguyen Tran Hong Phuc",
-     "inCharge": "Position: LeaderPerformed: Provide a plan for our team to create this web such as decorate HTML."
+     "inCharge": "Position: Leader Performed: HTML, CSS, AJAX, CART."
   },
      {"Id": "1959038",
      "Name": "Tran Duc Thinh",
-     "inCharge": "html, css, cart"
+     "inCharge": "Position: Member Performed: HTML, CSS, CART"
   },
      {"Id": "1959023",
      "Name": "Pham Quang Nhan",
-     "inCharge": "cart"
+     "inCharge": "Position: Member Performed: CART"
   },
      {"Id": "1959011",
      "Name": "Ha Minh Khoa",
-     "inCharge": "ajax, html, css"
+     "inCharge": "Position: Member Performed: AJAX, HTML, CSS"
   }
 
   ]
